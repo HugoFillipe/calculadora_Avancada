@@ -25,4 +25,4 @@ Para executar o projeto, é necessário utilizar algum editor de texto, para que
 
 ## Finalidade
 
-o projeto foi desenvolvido com o objetivo de exercitar Html, Css e JavaScript.
+O projeto foi desenvolvido com o objetivo de exercitar Html, Css e JavaScript.
