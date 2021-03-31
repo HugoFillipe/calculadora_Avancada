@@ -1,6 +1,6 @@
 # Calculadora Intermediaria
 
-Esse Projeto é estruturado em JavaScript com objetivo de fazer uma calculadora com todas as funções básicas
+Esse Projeto é estruturado em JavaScript com objetivo de fazer uma calculadora com todas as funções básicas.
 
 ## Começando
 
@@ -14,7 +14,7 @@ Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num di
 
 ```shell
 cd "diretorio de sua preferencia"
-git clone git@github.com:HugoFillipe/pesquisa_endereco.git
+git clone git@github.com:HugoFillipe/calculadora_Avancada.git
 ```
 
 O comando irá baixar todas dependências do projeto e criar um diretório. Assim podendo executar o codigo em algum navegador, se alguma coisa falhar, o console do proprio navegador vai acusar o erro.
