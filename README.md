@@ -1,6 +1,6 @@
 # Calculadora Intermediaria
 
-Esse Projeto é estruturado em JavaScript com objetivo de fazer uma calculadora com todas as funçôes básicas
+Esse Projeto é estruturado em JavaScript com objetivo de fazer uma calculadora com todas as funções básicas
 
 ## Começando
 
