@@ -4,7 +4,7 @@ Esse Projeto é estruturado em JavaScript com objetivo de fazer uma calculadora 
 
 ## Começando
 
-Para executar o projeto, será necessário instalar os seguintes programas:
+Para executar o projeto, será necessário instalar os seguinte programa:
 
 - [Node js: Necessário para executar o script](https://nodejs.org/en/)
 
